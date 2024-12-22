@@ -65,9 +65,10 @@ Access the dataset here: [Pediatric Pneumonia Chest X-Ray Dataset](https://www.k
    cd <project-directory>
    ```
 
- 1. Clone the repository.
+ 1. Mount the google drive for the dataset 
  ```bash
- git clone <repository-link>
- cd <project-directory>
+from google.colab import drive
+drive.mount('/content/drive')
  ```
 
+Then run all the code blog and i have documented the steps also in the jupyter notebook 
