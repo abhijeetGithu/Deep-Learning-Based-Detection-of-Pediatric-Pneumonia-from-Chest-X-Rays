@@ -63,3 +63,11 @@ Access the dataset here: [Pediatric Pneumonia Chest X-Ray Dataset](https://www.k
    ```bash
    git clone <repository-link>
    cd <project-directory>
+   ```
+
+ 1. Clone the repository.
+ ```bash
+ git clone <repository-link>
+ cd <project-directory>
+ ```
+
