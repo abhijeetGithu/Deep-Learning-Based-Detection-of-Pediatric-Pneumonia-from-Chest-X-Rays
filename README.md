@@ -11,7 +11,7 @@ This project focuses on developing a robust deep learning model to classify ches
 
 ### 1. Data Collection
 The dataset used in this project is publicly available on Kaggle and consists of labeled pediatric chest X-rays:
-[**Pediatric Pneumonia Chest X-Ray Dataset**](https://www.kaggle.com/datasets/andrewmvd/pediatric-pneumonia-chest-xray).
+[**Dataset**](https://www.kaggle.com/datasets/andrewmvd/pediatric-pneumonia-chest-xray).
 
 ### 2. Preprocessing
 - Images were resized to a standard dimension to match the input size required by the pre-trained model.
