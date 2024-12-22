@@ -62,7 +62,7 @@ Access the dataset here: [Pediatric Pneumonia Chest X-Ray Dataset](https://www.k
 1. Clone the repository.
    ```bash
    git clone https://github.com/abhijeetGithu/Deep-Learning-Based-Detection-of-Pediatric-Pneumonia-from-Chest-X-Rays.git
-   cd <project-directory>
+   cd Deep-Learning-Based-Detection-of-Pediatric-Pneumonia-from-Chest-X-Rays
    ```
 
  1. Mount the google drive for the dataset 
