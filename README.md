@@ -72,3 +72,8 @@ drive.mount('/content/drive')
  ```
 
 Then run all the code blog and i have documented the steps also in the jupyter notebook 
+
+## License
+
+This project is licensed under MIT License.
+
