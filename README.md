@@ -61,7 +61,7 @@ Access the dataset here: [Pediatric Pneumonia Chest X-Ray Dataset](https://www.k
 ## How to Run the Project
 1. Clone the repository.
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/abhijeetGithu/Deep-Learning-Based-Detection-of-Pediatric-Pneumonia-from-Chest-X-Rays.git
    cd <project-directory>
    ```
 
